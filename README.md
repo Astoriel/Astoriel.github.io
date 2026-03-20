@@ -46,6 +46,7 @@ I connect marketing spend to revenue — through data pipelines, attribution mod
 ### tech-certified*
 <details>
   <br/>
+  
   ![i](https://raw.githubusercontent.com/Astoriel/Astoriel.github.io/main/rip/i.jpg)
 
 </details>
