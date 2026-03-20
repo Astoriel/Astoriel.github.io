@@ -44,7 +44,10 @@ I connect marketing spend to revenue — through data pipelines, attribution mod
 ---
 
 ### tech-certified*
-<img src="https://raw.githubusercontent.com/Astoriel/astoriel.github.io/main/i.jpg" width="120" alt="" />
+`Snowflake SnowPro Core` · `Microsoft Fabric DP-600` · `Harvard CS50x, CS50P, CS50W` · `Google Data Analytics`
+
+<img src="https://raw.githubusercontent.com/Astoriel/astoriel.github.io/main/rip/i.jpg" width="120" alt="" />
+
 
 
 ---
