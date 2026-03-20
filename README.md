@@ -1,4 +1,4 @@
-# hey 👋
+# hey ( ﾟ▽ﾟ)/
 
 I'm a growth & revenue ops person who vibes\* code.
 
@@ -56,4 +56,4 @@ I connect marketing spend to revenue — through data pipelines, attribution mod
 
 ### links
 
-🌐 [astoriel.tech](https://astoriel.tech) · 📝 [blog](https://blog.astoriel.tech) · 🎨 [art](https://art.astoriel.tech)
+⌘ [astoriel.tech](https://astoriel.tech) · ▤ [blog](https://blog.astoriel.tech) · ⟡ [art](https://art.astoriel.tech)
